@@ -1,0 +1,5 @@
+.DS_Store
+.idea
+.vimrc
+.vscode
+node_modules/
